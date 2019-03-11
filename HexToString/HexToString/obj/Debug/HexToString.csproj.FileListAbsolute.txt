@@ -1,0 +1,10 @@
+Z:\program\HexToString\HexToString\bin\Debug\HexToString.exe.config
+Z:\program\HexToString\HexToString\bin\Debug\HexToString.exe
+Z:\program\HexToString\HexToString\bin\Debug\HexToString.pdb
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.csprojAssemblyReference.cache
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.HexToString.resources
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.Properties.Resources.resources
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.csproj.GenerateResource.cache
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.csproj.CoreCompileInputs.cache
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.exe
+Z:\program\HexToString\HexToString\obj\Debug\HexToString.pdb
